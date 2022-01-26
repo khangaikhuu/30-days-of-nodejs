@@ -1,0 +1,1 @@
+This data will be appended at the enf of the fileWe are appending this file synchronously using nodejs
